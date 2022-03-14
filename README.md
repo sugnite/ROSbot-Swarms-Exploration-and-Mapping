@@ -7,7 +7,11 @@ This package requires a few other packages :
   * rosbot_description
   * multirobot_map_merge
   * gmapping
-  
+
+
+Installing
+----------
+
 You can run the following commands to setup a build from source:
 
 ```
