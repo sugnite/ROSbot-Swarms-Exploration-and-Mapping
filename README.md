@@ -10,6 +10,9 @@ This package requires a few other packages :
   
 You can run the following commands to setup a build from source:
 
-cd catkin_ws/src
-git clone https://github.com/sugnite/ROSbot-Swarms-Exploration-and-Mapping
-rosdep update
+```
+ cd catkin_ws/src
+ git clone https://github.com/sugnite/ROSbot-Swarms-Exploration-and-Mapping
+ rosdep update
+
+```
