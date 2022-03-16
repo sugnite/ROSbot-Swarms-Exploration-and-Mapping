@@ -4,9 +4,9 @@ The robost_multi_sim package is a package that launch multi ROSbot simulation un
 The main file is the rosbots_starter_gazebo_main.launch
 
 This package requires a few other packages :
-  * rosbot_description
-  * multirobot_map_merge
-  * gmapping
+  * [rosbot_description](https://github.com/husarion/rosbot_description)
+  * [multirobot_map_merge](https://github.com/sugnite/m-explore/)
+  * [gmapping](https://github.com/ros-perception/slam_gmapping)
 
 
 Installing
