@@ -16,7 +16,14 @@ You can run the following commands to setup a build from source:
 
 ```
  cd catkin_ws/src
+```
+Clone the package
+```
  git clone https://github.com/sugnite/ROSbot-Swarms-Exploration-and-Mapping
+```
+Build and update the workspace
+```
+ catkin_make
  rosdep update
 
 ```
